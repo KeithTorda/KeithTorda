@@ -1,11 +1,12 @@
 <!--
-**KeithTorda/KeithTorda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KeithTorda/KeithTorda** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <div align="center">
 
-# 👨‍💻 Hi, I'm Keith Bryan Torda
-### System Developer & Full-Stack Engineer
+# Hi, I'm Keith Bryan Torda
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=System+Developer;Full-Stack+Engineer;Automation+Expert;Passionate+Coder" alt="Typing SVG" />
 
 *Building scalable, secure, and data-driven systems.*
 
@@ -23,23 +24,23 @@
 
 <br>
 
-## 🚀 About Me
+## About Me
 
 I am a passionate **System Developer** from the Philippines, holding a **BS in Information Technology**. I specialize in building robust and scalable web applications, from secure administrative dashboards to complex student and inventory systems.
 
 With a strong foundation in modern web development, I bring ideas to life through clean code, modern design principles, and efficient system architectures.
 
-- 🎓 **Education**: BS Information Technology (Focus on Web Development & Database Management).
-- 💼 **Role**: Freelance System Developer.
-- 🎯 **Right Now**: Deepening my knowledge in **TypeScript & React architecture**, improving API services, and exploring **Docker/deployment workflows**.
+- **Education**: BS Information Technology (Focus on Web Development & Database Management).
+- **Role**: Freelance System Developer.
+- **Right Now**: Deepening my knowledge in **TypeScript & React architecture**, improving API services, and exploring **Docker/deployment workflows**.
 
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-**[ 🌐 Frontend ]**
+**[ Frontend ]**
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,7 +50,7 @@ With a strong foundation in modern web development, I bring ideas to life throug
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**[ ⚙️ Backend & Database ]**
+**[ Backend & Database ]**
 <br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,7 +58,7 @@ With a strong foundation in modern web development, I bring ideas to life throug
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-**[ 🛠️ Cloud & Tools ]**
+**[ Cloud & Tools ]**
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -67,7 +68,7 @@ With a strong foundation in modern web development, I bring ideas to life throug
 
 ---
 
-## 🔥 Featured Systems & Work
+## Featured Systems & Work
 
 I specialize in building tailored systems for real-world operations:
 
@@ -78,16 +79,6 @@ I specialize in building tailored systems for real-world operations:
 - **KEITHBOT TOOLS**: Seamless multi-tool utility suite.
 
 *Check out my full portfolio at [keithbot.site](https://keithbot.site/) for live demos.*
-
----
-
-## 📈 GitHub Statistics
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeithTorda&theme=tokyonight" alt="GitHub Streak" width="100%">
-</div>
 
 ---
 
