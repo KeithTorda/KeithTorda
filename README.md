@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi, I'm Keith Bryan Torda
+# Hi, I'm Keith Bryan Torda <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/blue_verified.gif" width="35" style="vertical-align: middle;">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=System+Developer;Full-Stack+Engineer;Automation+Expert;Passionate+Coder" alt="Typing SVG" />
 
@@ -40,29 +40,21 @@ With a strong foundation in modern web development, I bring ideas to life throug
 
 <div align="center">
 
-**[ Frontend ]**
+**[ Core & Frontend ]**
 <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" />
+
+<br>
 
 **[ Backend & Database ]**
 <br>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql,firebase&theme=dark" />
 
-**[ Cloud & Tools ]**
 <br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-000?style=for-the-badge&logo=convex&logoColor=white)
+
+**[ Workflow & Cloud ]**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel&theme=dark" />
 
 </div>
 
